@@ -1,0 +1,21 @@
+{
+  "name": "Nanda Teknik",
+  "short_name": "NandaTeknik",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f4f7f6",
+  "theme_color": "#6c757d",
+  "description": "Aplikasi CRM & POS Nanda Teknik Banyuwangi",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgyFhnZprEoBng26elTHkphmHUVMEkt32wUf-qlkRqqz0Icvc8J-KyVbYo80vgM9rwHOdJiEGkPwlr8-bhgcnwHB9dhrRNUUTN0nsA7FDCoarj7LQbwEKosN12kkTyF6RUlmZsj9yHbnN-2MxANc1cdBr_LezMje_7U18BhyB5sVbezOt58EhCvk8t_WUnI=w192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgyFhnZprEoBng26elTHkphmHUVMEkt32wUf-qlkRqqz0Icvc8J-KyVbYo80vgM9rwHOdJiEGkPwlr8-bhgcnwHB9dhrRNUUTN0nsA7FDCoarj7LQbwEKosN12kkTyF6RUlmZsj9yHbnN-2MxANc1cdBr_LezMje_7U18BhyB5sVbezOt58EhCvk8t_WUnI=w512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
